@@ -1,0 +1,23 @@
+{
+
+  "name": "Onichanbot",
+
+  "version": "0.0.0",
+
+  "description": "",
+
+  "main": " Oni.js",
+
+  "scripts": {
+
+  "start": "node Oni.js"
+
+  },
+
+  "dependencies": {
+
+    "@adiwajshing/baileys": "^3.4.1"
+
+  }
+
+}
